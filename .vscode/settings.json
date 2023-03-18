@@ -49,7 +49,7 @@
     // ANTLR
     "antlr4.generation": {
         "outputDir": ".antlr",
-        "mode": "external",
+        "mode": "internal",
         "language": "Java",
         "listeners": true,
         "visitors": false
