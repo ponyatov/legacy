@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "ryuta46.multi-command",
+        "stkb.rewrap",
+        "tabnine.tabnine-vscode",
+        "ms-vscode.makefile-tools",
+        // formatters
+        "xaver.clang-format",
+        "foxundermoon.shell-format",
+        // misc
+        // "hbenl.vscode-test-explorer",
+        // "usernamehw.errorlens",
+        // "ms-vscode-remote.remote-ssh",
+        // "ms-azuretools.vscode-docker",
+        // Java
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-test",
+        // ANTLR
+        "mike-lischke.vscode-antlr4",
+    ]
+}
